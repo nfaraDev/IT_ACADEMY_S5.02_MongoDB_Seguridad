@@ -1,0 +1,16 @@
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\AuthenticationRequest$AuthenticationRequestBuilder.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\RegisterRequest$RegisterRequestBuilder.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\RegisterRequest.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\AuthenticationResponse.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\AuthenticationService.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\config\SecurityConfig.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\user\User$UserBuilder.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\jwt\JwtService.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\config\ApplicationConfig.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\repository\UserRepository.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\user\User.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\AuthenticationResponse$AuthenticationResponseBuilder.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\user\Role.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\AuthenticationController.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\auth\AuthenticationRequest.class
+cat\itacademy\barcelonactiva\fara\natalia\s05\_MongoDB\S0502_MongoFaraNatalia\security\jwt\JwtAuthenticationFilter.class
